@@ -21,7 +21,7 @@ stored at key server:name?" and Redis will reply with "fido":
     <a href="#run">GET server:name</a> => "fido"
 </code></pre>
 
-There is a command in order to test if a give key exists or not:
+There is a command in order to test if a given key exists or not:
 
 <pre><code>
     <a href="#run">EXISTS server:name</a> => 1
